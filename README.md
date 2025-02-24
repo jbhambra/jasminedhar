@@ -1,4 +1,8 @@
-Hi 👋 My name is Jasmine Dhar =============================  Full Stack Software Engineer ----------------------------  * 🌍  I'm based in Boston
+Hi 👋 My name is Jasmine Dhar
+=============================  
+Full Stack Software Engineer 
+----------------------------  
+* 🌍  I'm based in Boston
 
 ### Skills  
 
